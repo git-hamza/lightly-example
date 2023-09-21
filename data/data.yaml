@@ -1,0 +1,13 @@
+train: logo_data/train/
+val: logo_data/val/
+test: logo_data/test/
+
+nc: 7
+names:
+  0: "Nike"
+  1: "Adidas"
+  2: "Audi"
+  3: "Pepsi"
+  4: "Microsoft"
+  5: "Fedex"
+  6: "Redbull"
